@@ -1,5 +1,7 @@
 # odin-recipes
 
+## Made by Skyler Go
+
 ## Introduction
 
 "Odin's Recipes" is a simple recipe site built as part of the Foundations course on The Odin Project. It shows the homepage of the site with several links to pages showing recipes. Each recipe page has a list of ingredients, instructions for cooking, images and further information.
